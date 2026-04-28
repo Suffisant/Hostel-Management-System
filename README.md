@@ -42,5 +42,6 @@ Room Table: Tracks room availability and types.
 
 Student Table: Stores detailed records of hostel residents.
 
-Author
-Suffisant Madhikarmi
+**Author**
+
+**Suffisant Madhikarmi**
